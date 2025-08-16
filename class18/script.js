@@ -36,7 +36,7 @@
 // }
 
 
-const isInsideDhaka =false;
+const isInsideDhaka =false       ;
 const amount = 900;
 const dFree = "free"
 const d60 = 60;
@@ -54,4 +54,5 @@ if (amount >= 1000) {
 
     }
 }
+
 
